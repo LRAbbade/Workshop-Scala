@@ -823,6 +823,10 @@ println(v2 ** v3)
 
 ---
 
+## É recomendável reiniciar o kernel do jupyter neste ponto, algumas das classes criadas nos exemplos podem entrar em conflito com classes do Apache Spark
+
+---
+
 # Apache Spark Examples
 
 
